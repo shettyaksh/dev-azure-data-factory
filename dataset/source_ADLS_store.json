@@ -1,5 +1,5 @@
 {
-	"name": "Store_data_in_ADLS",
+	"name": "source_ADLS_store",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AZ_storage",
