@@ -1,0 +1,15 @@
+{
+	"name": "aks-adf-pipeline",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "westus3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6d37f7c9-f646-4091-965c-15331e709b33",
+		"tenantId": "0d64d4ec-dc20-4e14-a978-41a872424ed9"
+	}
+}
